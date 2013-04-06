@@ -1,5 +1,5 @@
 ﻿*** MindWaveSpectrogram ***
-Reads data from the NeuroSky MindWave and plots the eeg power data in a 3D Spectrogram.
+Processing script that reads data from the NeuroSky MindWave and plots the eeg power data in a 3D Spectrogram.
 
 Written by Dr. Sean M. Montgomery
 http://produceconsumerobot.com/
